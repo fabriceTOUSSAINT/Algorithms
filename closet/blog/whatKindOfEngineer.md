@@ -7,7 +7,7 @@
 * One who [**Stays On Top** of **React**](#React) ⚛️
 * One who can [**Build** the **Full Stack**](#backend) 📕
 * One who can [**Discuss and Talk**](#Sharing%20Knowledge) to pros/cons of technologies of the whole stack 👨‍👨‍👧‍👦
-* One who [**Efficiently Manages My Time**](#Time%20Managment) 🕦
+* One who [**Efficiently Manage My Time**](#Time%20Management) 🕦
 * One who [**Demonstrate Performance Differences**](#Performance) in technologies/cost savings 📈
 
 
@@ -15,7 +15,8 @@
 
 ---
 ```yml
-> This is a living document, This will grow with resources, and possible shrink removing resources that didn't serve a deep purpose.
+> This is a living document, This will grow with resources, and possibly shrink
+removing resources that didn't serve a deep purpose.
 ```
 # Test-driven Development
   - [ ] [4 Hour Tutorial, Kent Dodds F.E.M](https://frontendmasters.com/courses/testing-react/)
@@ -81,7 +82,7 @@ TODO: Find more to learn! 😄
   1. Blogging,
   2. Technical-writing for documentation
   ```
-# Time Managment
+# Time Management
 ```yml
  TODO: Find resources for controlling my own time. Probably:
 
