@@ -60,10 +60,11 @@ func main() {
 	// Timed tests
 	start := time.Now()
 
+	// Algorithm Call
 	fmt.Println("\nNumber of triples equaling 0: ", ThreeSum(numArr))
 
+	// End Time
 	elapsed := time.Since(start)
-
 	log.Printf("\n\nMain.go Executed in: %s\n\n", elapsed)
 
 }
