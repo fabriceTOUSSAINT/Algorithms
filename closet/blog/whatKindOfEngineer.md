@@ -1,5 +1,6 @@
 # What kind of engineer do I want to be?
 * One who doesn’t code before [**TDD**](#Test-driven%20Development) ⛑
+* One who is [**Confident**](#Confident) of my knoledge
 * One who [**Documents**](#Documenting) my work 📝
 * One who is Knowledgable on [**Data Structures & Algorithms**](#Data%20Structures%20&%20Algorithms) 🤓
 * One who is [**Efficient & Quick** for **First Steps & Solutions**](#Productivity) 🏃
@@ -63,7 +64,9 @@ TODO: Find more to learn! 😄
 TODO: Find more to learn! 😄
 ```
 # Backend
+* [In depth Node.js tutorial: RisingStack](https://blog.risingstack.com/nodejs-at-scale-npm-best-practices/)
 * [Golang](https://golang.org/doc)
+* [Github Actions](https://github.com/features/actions)
 ```yml
   TODO: Own The Full stack:
 
